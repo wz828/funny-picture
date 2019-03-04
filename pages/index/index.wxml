@@ -1,0 +1,2 @@
+<image class="bg" src="../../img/bg.jpg" mode="widthFix" />
+<button class="btn" bindtap="onUploadPhoto">上传照片</button>
